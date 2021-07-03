@@ -26,4 +26,4 @@
        IdentityFile ~/.ssh/id_rsa_github
    ```
    
-   ## Arquivo modelo disponível => [config](https://github.com/harisson-freitas/config-ssh/blob/main/config)
+   ### Arquivo modelo disponível => [config](https://github.com/harisson-freitas/config-ssh/blob/main/config)
